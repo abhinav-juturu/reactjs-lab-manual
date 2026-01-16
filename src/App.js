@@ -33,11 +33,11 @@
 
 // export default App;
 
-import Exp5_GameCalculator from "./Exp5_GameCalculator";
+// import Exp5_GameCalculator from "./Exp5_GameCalculator";
 
-function App() {
-  return <Exp5_GameCalculator />;
-}
+// function App() {
+//   return <Exp5_GameCalculator />;
+// }
 
-export default App;
+// export default App;
 
