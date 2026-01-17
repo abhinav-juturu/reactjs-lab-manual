@@ -47,8 +47,6 @@ function Exp4_Calculator() {
 
 export default Exp4_Calculator;
 
-/* ---------- STYLES ---------- */
-
 const calcBox = {
   width: "280px",
   margin: "40px auto",

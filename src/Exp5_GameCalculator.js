@@ -19,10 +19,6 @@ function Exp5_GameCalculator() {
 
 export default Exp5_GameCalculator;
 
-
-
-/* ================= REAL CALCULATOR (SAME AS EXP 4) ================= */
-
 function RealCalculator() {
   const [input, setInput] = useState("");
 
@@ -59,9 +55,6 @@ function RealCalculator() {
 }
 
 
-
-/* ================= GAME MODE ================= */
-
 function MathGame() {
   const [a, setA] = useState(rand());
   const [b, setB] = useState(rand());
@@ -94,9 +87,6 @@ function MathGame() {
   );
 }
 
-
-
-/* ================= STYLES ================= */
 
 const box = {
   width: "350px",
