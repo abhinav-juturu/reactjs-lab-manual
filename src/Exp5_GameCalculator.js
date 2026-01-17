@@ -26,6 +26,7 @@ function RealCalculator() {
 
   const calculate = () => {
     try {
+      // eslint-disable-next-line no-eval
       setInput(eval(input).toString());
     } catch {
       setInput("Error");

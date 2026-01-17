@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-pascal-case */
+
 import { useState } from "react";
 
 import Exp1_NumberPrograms from "./Exp1_NumberPrograms";
